@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">firebase_auth</string>
+    <string name="facebook_app_id">1675067559345879</string>
 </resources>
